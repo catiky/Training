@@ -1,2 +1,4 @@
 # Training
-meterial for training
+meterial for training 
+
+just learnning git
