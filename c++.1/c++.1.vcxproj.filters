@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\inherite">
+      <UniqueIdentifier>{24a1a8ce-74e5-4d69-8423-47101f7aa828}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\polymorphism">
+      <UniqueIdentifier>{eda87a33-4aec-4146-84a1-ca526d5817da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\file using">
+      <UniqueIdentifier>{8f7aed48-d559-46c2-8ca3-8383d2eb99d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\template">
+      <UniqueIdentifier>{eb1288b0-32fa-4db2-a6a2-9501c8b0bfa6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\STL">
+      <UniqueIdentifier>{0ddb2b25-15b5-49ab-a9b1-fe2928dd936d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\container">
+      <UniqueIdentifier>{2963efcc-681c-4720-8508-6d362fa8b07e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\container\string">
+      <UniqueIdentifier>{a47090f7-5af2-4997-9fc0-6fd89a799652}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\container\vector">
+      <UniqueIdentifier>{5b876f45-a111-471d-b6a5-ca6a6bd9b701}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\container\deque">
+      <UniqueIdentifier>{a2c7c365-9934-450f-a1bb-df4d7a2fb271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\container\example">
+      <UniqueIdentifier>{36f7037c-0834-46ff-94c6-7b34afe07f8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\container\stack">
+      <UniqueIdentifier>{8f97ad48-3366-4c03-adf8-67325f8792d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\container\queue">
+      <UniqueIdentifier>{52c78503-ec9b-4c21-a924-b0c6558b57f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\list">
+      <UniqueIdentifier>{322f16e7-4477-44b2-bfac-5b381f9ec6f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\container\set/multiset">
+      <UniqueIdentifier>{4e207116-db07-4c70-aa8e-f0a83b71fada}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\container\map/multimap">
+      <UniqueIdentifier>{ab4971b5-b40e-4f6f-a946-e7152a123d2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Function object">
+      <UniqueIdentifier>{af9c6e3d-4683-4f1f-ad44-364e8d1fb71c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\algorithm">
+      <UniqueIdentifier>{ad5984dc-d12c-47c0-a3d4-1303b568f762}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="demo1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="practice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="demo3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="demo2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="demo4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="demo5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="friend.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="operator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="inherit1.cpp">
+      <Filter>源文件\inherite</Filter>
+    </ClCompile>
+    <ClCompile Include="inherit2.cpp">
+      <Filter>源文件\inherite</Filter>
+    </ClCompile>
+    <ClCompile Include="inherit3.cpp">
+      <Filter>源文件\inherite</Filter>
+    </ClCompile>
+    <ClCompile Include="inherite4.cpp">
+      <Filter>源文件\inherite</Filter>
+    </ClCompile>
+    <ClCompile Include="inherit5.cpp">
+      <Filter>源文件\inherite</Filter>
+    </ClCompile>
+    <ClCompile Include="inherit6.cpp">
+      <Filter>源文件\inherite</Filter>
+    </ClCompile>
+    <ClCompile Include="polymorphism1.cpp">
+      <Filter>源文件\polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="polymorphism2.cpp">
+      <Filter>源文件\polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="polymorphism3.cpp">
+      <Filter>源文件\polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="polymorphism4.cpp">
+      <Filter>源文件\polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="polymorphism5.cpp">
+      <Filter>源文件\polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="polymorphism6.cpp">
+      <Filter>源文件\polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="polymorphism7.cpp">
+      <Filter>源文件\polymorphism</Filter>
+    </ClCompile>
+    <ClCompile Include="using file1.cpp">
+      <Filter>源文件\file using</Filter>
+    </ClCompile>
+    <ClCompile Include="using file2.cpp">
+      <Filter>源文件\file using</Filter>
+    </ClCompile>
+    <ClCompile Include="using file3.cpp">
+      <Filter>源文件\file using</Filter>
+    </ClCompile>
+    <ClCompile Include="using file4.cpp">
+      <Filter>源文件\file using</Filter>
+    </ClCompile>
+    <ClCompile Include="template1.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template2.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template3.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template4.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template5.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template6.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template7.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template8.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template9.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template10.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template11.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="template12.cpp">
+      <Filter>源文件\template</Filter>
+    </ClCompile>
+    <ClCompile Include="STL1.cpp">
+      <Filter>源文件\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="STL2.cpp">
+      <Filter>源文件\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="STL3.cpp">
+      <Filter>源文件\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="string1.cpp">
+      <Filter>源文件\container\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string2.cpp">
+      <Filter>源文件\container\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string3.cpp">
+      <Filter>源文件\container\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string4.cpp">
+      <Filter>源文件\container\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string5.cpp">
+      <Filter>源文件\container\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string6.cpp">
+      <Filter>源文件\container\string</Filter>
+    </ClCompile>
+    <ClCompile Include="string7.cpp">
+      <Filter>源文件\container\string</Filter>
+    </ClCompile>
+    <ClCompile Include="vector1.cpp">
+      <Filter>源文件\container\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="vector2.cpp">
+      <Filter>源文件\container\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="vector3.cpp">
+      <Filter>源文件\container\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="vector4.cpp">
+      <Filter>源文件\container\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="vector5.cpp">
+      <Filter>源文件\container\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="vector6%27.cpp">
+      <Filter>源文件\container\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="vector7.cpp">
+      <Filter>源文件\container\vector</Filter>
+    </ClCompile>
+    <ClCompile Include="deque1.cpp">
+      <Filter>源文件\container\deque</Filter>
+    </ClCompile>
+    <ClCompile Include="deque2.cpp">
+      <Filter>源文件\container\deque</Filter>
+    </ClCompile>
+    <ClCompile Include="deque3.cpp">
+      <Filter>源文件\container\deque</Filter>
+    </ClCompile>
+    <ClCompile Include="deque4.cpp">
+      <Filter>源文件\container\deque</Filter>
+    </ClCompile>
+    <ClCompile Include="deque5.cpp">
+      <Filter>源文件\container\deque</Filter>
+    </ClCompile>
+    <ClCompile Include="deque6.cpp">
+      <Filter>源文件\container\deque</Filter>
+    </ClCompile>
+    <ClCompile Include="point1.cpp">
+      <Filter>源文件\container\example</Filter>
+    </ClCompile>
+    <ClCompile Include="stack1.cpp">
+      <Filter>源文件\container\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="queue.cpp">
+      <Filter>源文件\container\queue</Filter>
+    </ClCompile>
+    <ClCompile Include="list1.cpp">
+      <Filter>源文件\list</Filter>
+    </ClCompile>
+    <ClCompile Include="list2.cpp">
+      <Filter>源文件\list</Filter>
+    </ClCompile>
+    <ClCompile Include="list3.cpp">
+      <Filter>源文件\list</Filter>
+    </ClCompile>
+    <ClCompile Include="list4.cpp">
+      <Filter>源文件\list</Filter>
+    </ClCompile>
+    <ClCompile Include="list5.cpp">
+      <Filter>源文件\list</Filter>
+    </ClCompile>
+    <ClCompile Include="list6.cpp">
+      <Filter>源文件\list</Filter>
+    </ClCompile>
+    <ClCompile Include="list7.cpp">
+      <Filter>源文件\list</Filter>
+    </ClCompile>
+    <ClCompile Include="set1.cpp">
+      <Filter>源文件\container\set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="set2.cpp">
+      <Filter>源文件\container\set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="set3.cpp">
+      <Filter>源文件\container\set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="set4.cpp">
+      <Filter>源文件\container\set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="set5.cpp">
+      <Filter>源文件\container\set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="set6.cpp">
+      <Filter>源文件\container\set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="set7.cpp">
+      <Filter>源文件\container\set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="set8.cpp">
+      <Filter>源文件\container\set/multiset</Filter>
+    </ClCompile>
+    <ClCompile Include="map1.cpp">
+      <Filter>源文件\container\map/multimap</Filter>
+    </ClCompile>
+    <ClCompile Include="map2.cpp">
+      <Filter>源文件\container\map/multimap</Filter>
+    </ClCompile>
+    <ClCompile Include="map3.cpp">
+      <Filter>源文件\container\map/multimap</Filter>
+    </ClCompile>
+    <ClCompile Include="map4.cpp">
+      <Filter>源文件\container\map/multimap</Filter>
+    </ClCompile>
+    <ClCompile Include="map5.cpp">
+      <Filter>源文件\container\map/multimap</Filter>
+    </ClCompile>
+    <ClCompile Include="example2.cpp">
+      <Filter>源文件\container\example</Filter>
+    </ClCompile>
+    <ClCompile Include="Function object1.cpp">
+      <Filter>源文件\Function object</Filter>
+    </ClCompile>
+    <ClCompile Include="Function object2.cpp">
+      <Filter>源文件\Function object</Filter>
+    </ClCompile>
+    <ClCompile Include="Function object3.cpp">
+      <Filter>源文件\Function object</Filter>
+    </ClCompile>
+    <ClCompile Include="Function object4.cpp">
+      <Filter>源文件\Function object</Filter>
+    </ClCompile>
+    <ClCompile Include="Function object5.cpp">
+      <Filter>源文件\Function object</Filter>
+    </ClCompile>
+    <ClCompile Include="functional6.cpp">
+      <Filter>源文件\Function object</Filter>
+    </ClCompile>
+    <ClCompile Include="algorithm1.cpp">
+      <Filter>源文件\algorithm</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyArray.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
